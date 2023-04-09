@@ -1,0 +1,19 @@
+.cardAvatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 48px;
+  }
+  .newBtn {
+    border-radius: 2px;
+    width: 100%;
+    height: 187px;
+  }
+  .metaContent {
+    position: relative;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    height: 100px;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
